@@ -4,8 +4,8 @@
   <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
   <br>
   
-  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src ="https://img.shields.io/badge/NumPy-013243.svg?&style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Apache Spark" src ="https://img.shields.io/badge/Apache Spark-E25A1C.svg?&style=for-the-badge&logo=Apache Spark&logoColor=white"/>
   <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
   
@@ -27,13 +27,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
   
-  
-  
-  
-  
-  
-  
 </div>
+
 <!--
 **J-CHOO/J-CHOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
