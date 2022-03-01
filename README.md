@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/pandas-#5F259F?style=for-the-badge&logo=pandas&logoColor=white">
+  <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
   
 </div>
 <!--
