@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Tech Stacks 📚</h1></div>
 <!--
 **J-CHOO/J-CHOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
