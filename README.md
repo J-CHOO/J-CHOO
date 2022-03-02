@@ -33,7 +33,7 @@
 
 <div align=center><h1>:star: Git Stats :star:</h1></div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=J-CHOO&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-CHOO&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **J-CHOO/J-CHOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
