@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=CHOO%20JUNE&desc=Developer%20who%20grow%20with%20the%20company.&descAlignY=70&fontSize=90&fontColor=000000)
+
 <div align=center><h1>:star: Tech Stacks :star:</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
