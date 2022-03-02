@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=CHOO%20JUNE&desc=Developer%20who%20grow%20with%20the%20company.&descAlignY=70&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHOO%20JUNE&desc=Developer%20who%20grow%20with%20the%20company.&descAlignY=70&fontSize=90&fontColor=000000)
 
 <div align=center><h1>:star: Tech Stacks :star:</h1></div>
 <div align=center>
@@ -30,7 +30,7 @@
   <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/>
   
 </div>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-CHOO&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **J-CHOO/J-CHOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
