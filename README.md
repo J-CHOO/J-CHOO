@@ -32,7 +32,7 @@
 </div>
 
 <div align=center><h1>:star: Tech Stacks :star:</h1></div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-CHOO&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-CHOO&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **J-CHOO/J-CHOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
